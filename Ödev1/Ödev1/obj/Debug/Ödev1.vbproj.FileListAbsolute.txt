@@ -1,0 +1,12 @@
+C:\Users\Cem\source\repos\Ödev1\Ödev1\bin\Debug\Ödev1.exe.config
+C:\Users\Cem\source\repos\Ödev1\Ödev1\bin\Debug\Ödev1.exe
+C:\Users\Cem\source\repos\Ödev1\Ödev1\bin\Debug\Ödev1.pdb
+C:\Users\Cem\source\repos\Ödev1\Ödev1\bin\Debug\Ödev1.xml
+C:\Users\Cem\source\repos\Ödev1\Ödev1\obj\Debug\Ödev1.vbprojAssemblyReference.cache
+C:\Users\Cem\source\repos\Ödev1\Ödev1\obj\Debug\Ödev1.Form1.resources
+C:\Users\Cem\source\repos\Ödev1\Ödev1\obj\Debug\Ödev1.Resources.resources
+C:\Users\Cem\source\repos\Ödev1\Ödev1\obj\Debug\Ödev1.vbproj.GenerateResource.cache
+C:\Users\Cem\source\repos\Ödev1\Ödev1\obj\Debug\Ödev1.vbproj.CoreCompileInputs.cache
+C:\Users\Cem\source\repos\Ödev1\Ödev1\obj\Debug\Ödev1.exe
+C:\Users\Cem\source\repos\Ödev1\Ödev1\obj\Debug\Ödev1.xml
+C:\Users\Cem\source\repos\Ödev1\Ödev1\obj\Debug\Ödev1.pdb
